@@ -1,0 +1,224 @@
+Attendance 9/11
+ENT 101 - Intro to Entrepreneurship	Sep 11
+3 Pathways Assignment
+ENT 101 - Intro to Entrepreneurship	Sep 11
+Quiz 1: The Golden Rule
+C S 404 - Ethics + Computers in Society	Sep 12
+HW 1 - Setup and Intro
+C S 324 - Systems Programming	Sep 12
+Reading Quiz 1
+C S 324 - Systems Programming	Sep 12
+HIBT: Marcia Kilgore - Serial Entrepreneur
+ENT 101 - Intro to Entrepreneurship	Sep 13
+NISI - Quiz Chapter 2 (pgs. 21-34)
+ENT 101 - Intro to Entrepreneurship	Sep 13
+Attendance 9/13
+ENT 101 - Intro to Entrepreneurship	Sep 13
+Disconnect Challenge
+C S 324 - Systems Programming	Sep 13
+NISI - Quiz Chapter 1 (pgs. 1-20)
+ENT 101 - Intro to Entrepreneurship	Sep 13
+Summary I: Ethical Egoism
+C S 404 - Ethics + Computers in Society	Sep 14
+HW 2 - BYU Bandit
+C S 324 - Systems Programming	Sep 15
+NISI - Quiz Chapter 3.1 (pgs. 35-51)
+ENT 101 - Intro to Entrepreneurship	Sep 18
+Attendance 9/18
+ENT 101 - Intro to Entrepreneurship	Sep 18
+Disconnect Report 1
+C S 324 - Systems Programming	Sep 18
+Reading Quiz 2
+C S 324 - Systems Programming	Sep 19
+HIBT: Angie and Dan Bastian - Boom Chicka Pop
+ENT 101 - Intro to Entrepreneurship	Sep 20
+NISI - Quiz Chapter 3.2 (pgs. 51-63)
+ENT 101 - Intro to Entrepreneurship	Sep 20
+Attendance 9/20
+ENT 101 - Intro to Entrepreneurship	Sep 20
+HW 3 - fork/exec
+C S 324 - Systems Programming	Sep 22
+NISI - Quiz Phase 1 (pgs. 65-77)
+ENT 101 - Intro to Entrepreneurship	Sep 25
+Disconnect Report 2
+C S 324 - Systems Programming	Sep 25
+Attendance 9/25
+ENT 101 - Intro to Entrepreneurship	Sep 25
+Reading Quiz 3
+C S 324 - Systems Programming	Sep 26
+HIBT: David Neeleman- jetBlue
+ENT 101 - Intro to Entrepreneurship	Sep 27
+NISI - Quiz Phase 1.2 (pgs. 78-91)
+ENT 101 - Intro to Entrepreneurship	Sep 27
+Attendance 9/27
+ENT 101 - Intro to Entrepreneurship	Sep 27
+Shell Lab 1 - Pipelines and Redirection
+C S 324 - Systems Programming	Sep 29
+HIBT: Dave Dahl - Dave's Killer Bread
+ENT 101 - Intro to Entrepreneurship	Oct 2
+NISI - Quiz Phase 2 (pgs. 92-113)
+ENT 101 - Intro to Entrepreneurship	Oct 2
+Disconnect Report 3
+C S 324 - Systems Programming	Oct 2
+Attendance 10/2
+ENT 101 - Intro to Entrepreneurship	Oct 2
+Reading Quiz 4
+C S 324 - Systems Programming	Oct 3
+NISI - Quiz Phase 2 (pgs. 114-134)
+ENT 101 - Intro to Entrepreneurship	Oct 4
+Attendance 10/4
+ENT 101 - Intro to Entrepreneurship	Oct 4
+Entrepreneur Interview #1
+ENT 101 - Intro to Entrepreneurship	Oct 4
+Analysis I: Prima Facie Duties
+C S 404 - Ethics + Computers in Society	Oct 5
+HW 4 - Signals
+C S 324 - Systems Programming	Oct 6
+HIBT: John Mackey - Whole Foods
+ENT 101 - Intro to Entrepreneurship	Oct 9
+NISI - Quiz Phase 3 (pgs.135-158)
+ENT 101 - Intro to Entrepreneurship	Oct 9
+Disconnect Report 4
+C S 324 - Systems Programming	Oct 9
+Attendance 10/9
+ENT 101 - Intro to Entrepreneurship	Oct 9
+Final Team Presentation
+ENT 113 - 003. 10/3; 10/7; 10/10 (TNRB 484)	Oct 10
+Participation
+ENT 113 - 003. 10/3; 10/7; 10/10 (TNRB 484)	Oct 10
+Reading Quiz 5
+C S 324 - Systems Programming	Oct 10
+NISI - Quiz Phase 4 (pgs. 159-170)
+ENT 101 - Intro to Entrepreneurship	Oct 11
+Attendance 10/11
+ENT 101 - Intro to Entrepreneurship	Oct 11
+Exam I
+C S 404 - Ethics + Computers in Society	Oct 13
+Shell Lab 2 - Signals and Job Control
+C S 324 - Systems Programming	Oct 13
+HIBT: Jake Carpenter - Burton Snowboards
+ENT 101 - Intro to Entrepreneurship	Oct 16
+NISI - Quiz Phase 5 (pgs. 171-196)
+ENT 101 - Intro to Entrepreneurship	Oct 16
+Disconnect Report 5
+C S 324 - Systems Programming	Oct 16
+Attendance 10/16
+ENT 101 - Intro to Entrepreneurship	Oct 16
+Reading Quiz 6
+C S 324 - Systems Programming	Oct 17
+NISI- Quiz Chapter 9 (197-209)
+ENT 101 - Intro to Entrepreneurship	Oct 18
+Attendance 10/18
+ENT 101 - Intro to Entrepreneurship	Oct 18
+Midterm 1
+C S 324 - Systems Programming	Oct 20
+HIBT: Tom Rinks- Sun Bum
+ENT 101 - Intro to Entrepreneurship	Oct 23
+Disconnect Report 6
+C S 324 - Systems Programming	Oct 23
+Attendance 10/23
+ENT 101 - Intro to Entrepreneurship	Oct 23
+Analysis II: Neutralizations
+C S 404 - Ethics + Computers in Society	Oct 24
+Reading Quiz 7
+C S 324 - Systems Programming	Oct 24
+NISI - Quiz Chapter 10 (pgs. 211-229)
+ENT 101 - Intro to Entrepreneurship	Oct 25
+Attendance 10/25
+ENT 101 - Intro to Entrepreneurship	Oct 25
+HIBT: Stacy Brown - Chicken Salad Chick
+ENT 101 - Intro to Entrepreneurship	Oct 30
+Disconnect Report 7
+C S 324 - Systems Programming	Oct 30
+Attendance 10/30
+ENT 101 - Intro to Entrepreneurship	Oct 30
+Summary II: Self-Deception
+C S 404 - Ethics + Computers in Society	Oct 31
+Reading Quiz 8
+C S 324 - Systems Programming	Oct 31
+Entrepreneur Interview #2
+ENT 101 - Intro to Entrepreneurship	Nov 1
+Attendance 11/1
+ENT 101 - Intro to Entrepreneurship	Nov 1
+Socket Treasure Hunt
+C S 324 - Systems Programming	Nov 3
+HIBT: Jerry Murrell - Five Guys
+ENT 101 - Intro to Entrepreneurship	Nov 6
+Disconnect Report 8
+C S 324 - Systems Programming	Nov 6
+Attendance 11/6
+ENT 101 - Intro to Entrepreneurship	Nov 6
+Reading Quiz 9
+C S 324 - Systems Programming	Nov 7
+Attendance 11/8
+ENT 101 - Intro to Entrepreneurship	Nov 8
+Attendance 11/13
+ENT 101 - Intro to Entrepreneurship	Nov 13
+Reading Quiz 10
+C S 324 - Systems Programming	Nov 14
+HIBT: Lara Merriken - Lara Bars
+ENT 101 - Intro to Entrepreneurship	Nov 15
+Attendance 11/15
+ENT 101 - Intro to Entrepreneurship	Nov 15
+HTTP Proxy Lab 1 - Threadpool
+C S 324 - Systems Programming	Nov 17
+Disconnect Report 10
+C S 324 - Systems Programming	Nov 17
+Disconnect Report 9
+C S 324 - Systems Programming	Nov 20
+HIBT: Joe Gebbia - Airbnb
+ENT 101 - Intro to Entrepreneurship	Nov 20
+Reading Quiz 11
+C S 324 - Systems Programming	Nov 20
+Attendance 11/20
+ENT 101 - Intro to Entrepreneurship	Nov 20
+Disconnect Report 11
+C S 324 - Systems Programming	Nov 27
+Attendance 11/27
+ENT 101 - Intro to Entrepreneurship	Nov 27
+Midterm 2
+C S 324 - Systems Programming	Nov 28
+Reading Quiz 12
+C S 324 - Systems Programming	Nov 28
+HIBT: Haim Saban - Power Rangers
+ENT 101 - Intro to Entrepreneurship	Nov 29
+Journal
+ENT 101 - Intro to Entrepreneurship	Nov 29
+Attendance 11/29
+ENT 101 - Intro to Entrepreneurship	Nov 29
+Disconnect Report 12
+C S 324 - Systems Programming	Dec 4
+Attendance 12/4
+ENT 101 - Intro to Entrepreneurship	Dec 4
+Reading Quiz 13
+C S 324 - Systems Programming	Dec 5
+Attendance 12/6
+ENT 101 - Intro to Entrepreneurship	Dec 6
+Final Project - Individual Validation
+ENT 101 - Intro to Entrepreneurship	Dec 6
+Entrepreneur Interview #3
+ENT 101 - Intro to Entrepreneurship	Dec 6
+HTTP Proxy Lab 2 - I/O Multiplexing
+C S 324 - Systems Programming	Dec 8
+Disconnect Report 13
+C S 324 - Systems Programming	Dec 11
+Final Exam
+ENT 101 - Intro to Entrepreneurship	Dec 13
+Attendance
+C S 324 - Systems Programming	Dec 13
+Reading Quiz 14 (End-of-Class Survey)
+C S 324 - Systems Programming	Dec 13
+Final Disconnect Challenge Report
+C S 324 - Systems Programming	Dec 13
+Disconnect Report 14
+C S 324 - Systems Programming	Dec 13
+Final Exam
+C S 404 - Ethics + Computers in Society	Dec 14
+Written Report
+C S 404 - Ethics + Computers in Society	Dec 14
+Oral Presentation
+C S 404 - Ethics + Computers in Society	Dec 14
+Attendance
+C S 404 - Ethics + Computers in Society	Dec 14
+Final Exam (TBD)
+C S 324 - Systems Programming	Dec 21
