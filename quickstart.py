@@ -1,6 +1,7 @@
 from __future__ import print_function
 
 import datetime
+import re
 import json
 import os.path
 
@@ -61,19 +62,48 @@ def update_needed_calendars():
     # todo check if calendars are correct?
     # todo check if calendars are old?
 
+def read_ls_txt_file():
+    lines = None
+    if os.path.exists('LS_sept6.txt'): #todo hardcoded name
+        with open('LS_sept6.txt', 'r') as LS_HW:
+            lines = [word for line in LS_HW for word in re.split(r'[\n\t]+', line) if word]
+    else:
+        print("No LS file found")
+    return lines
+
+def update_events():
+    #todo
+    print()
+    # if(event not found)
+    #     create_new_event():
+
+def create_new_event():
+    #todo
+    # Call API
+    save_event()
+
+def save_event():
+    #todo
+    print()
+
 def main():
-    creds = get_credentials()
-    if update_needed_calendars():
-        my_calendar_list = get_calendars(creds)
-        save_calendars(my_calendar_list)
+    # creds = get_credentials()
+    # if update_needed_calendars():
+    #     my_calendar_list = get_calendars(creds)
+    #     save_calendars(my_calendar_list)
 
     # LS read from file
+    # check_saved_events_file()
+    read_ls_txt_file() #todo make these 3 a method
+    update_events()
 
     # todo: Get events from LS & Canvas
     #       Add events to calendar
     #       Store added & old events
     #       Store class name, source, calendar name, event ID....
 
+    # todo eventually: Asks what calendars are assigned to what classes
+    #       Ask....
 
 # This Allows You to Execute Code When the File Runs as a Script,
 # but Not When It's Imported as a Module
