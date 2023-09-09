@@ -1,0 +1,127 @@
+[
+    {
+        "event_due_date": "Sep 5",
+        "event_name": "Syllabus",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 7",
+        "event_name": "Chapters 0, 1 - pp. 1-15",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 12",
+        "event_name": "Chapter 1 - pp. 16-30",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 14",
+        "event_name": "pp. 30-38",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 19",
+        "event_name": "Chapter 2 - pp. 45-50",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 21",
+        "event_name": "pp. 50-57",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 26",
+        "event_name": "Chapter 3 - pp. 80-87",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Sep 28",
+        "event_name": "pp. 87-95",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 3",
+        "event_name": "Chapter 4 - pp. 104-113",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 5",
+        "event_name": "pp. 113-120",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 10",
+        "event_name": "Chapter 5 - pp. 127-138",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 12",
+        "event_name": "pp. 138-143",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 17",
+        "event_name": "pp. 144-147",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 24",
+        "event_name": "Chapter 6 - pp. 156-164",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Oct 31",
+        "event_name": "pp. 164-171",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 2",
+        "event_name": "pp. 171-177",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 7",
+        "event_name": "Chapter 7 - pp. 188-198",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 9",
+        "event_name": "pp. 206-213",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 14",
+        "event_name": "Chapter 9 - pp. 271-276",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 16",
+        "event_name": "Chapter 9 - pp. 271-276 + extra B&B TSP material",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 28",
+        "event_name": "Chapter 8 - pp. 232-247",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Nov 30",
+        "event_name": "Chapter 9 - pp. 276-293",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Apr 2",
+        "event_name": "Chapter 10 - pp. 297-302",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Dec 7",
+        "event_name": "Sec. 2.4 - Boxes on pp. 29, 56, 140",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    },
+    {
+        "event_due_date": "Dec 16",
+        "event_name": "Study Guide",
+        "event_class_name": "C S 312: Algorithm Design & Analysis (Fall 2023)"
+    }
+]
