@@ -1,0 +1,786 @@
+[
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 11",
+        "event_id": "t186of8jg2n2jr0nifjoaph7fk",
+        "event_name": "Attendance 9/11"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 11",
+        "event_id": "60hd6nrifrd2vr1hjrklffcrs0",
+        "event_name": "3 Pathways Assignment"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Sep 12",
+        "event_id": "t81n6gi433b508n5kot7da1fck",
+        "event_name": "Quiz 1: The Golden Rule"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 12",
+        "event_id": "6gcludonsb1djlb7ocenkvr97o",
+        "event_name": "HW 1 - Setup and Intro"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 12",
+        "event_id": "kuohdnkqirpcb2no5ch3meupts",
+        "event_name": "Reading Quiz 1"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 13",
+        "event_id": "9i44c87kjghnpt3eh54ho51bgo",
+        "event_name": "HIBT: Marcia Kilgore - Serial Entrepreneur"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 13",
+        "event_id": "kgjhj36aibvkp3fkkufokd9e14",
+        "event_name": "NISI - Quiz Chapter 2 (pgs. 21-34)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 13",
+        "event_id": "vl7l9vsabhhc71k8amr0h5vm78",
+        "event_name": "Attendance 9/13"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 13",
+        "event_id": "tm0ig0raveea9j4afrt940gtn4",
+        "event_name": "Disconnect Challenge"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 13",
+        "event_id": "n0mc20ac2teap38s2i59rrb1jg",
+        "event_name": "NISI - Quiz Chapter 1 (pgs. 1-20)"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Sep 14",
+        "event_id": "hr12ocs9s3gb6fjlpcsbp0eohg",
+        "event_name": "Summary I: Ethical Egoism"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 15",
+        "event_id": "le64r36ja6anci09kauseom9u4",
+        "event_name": "HW 2 - BYU Bandit"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 18",
+        "event_id": "5l0pd26dssda95n004gv003320",
+        "event_name": "NISI - Quiz Chapter 3.1 (pgs. 35-51)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 18",
+        "event_id": "m5gvfgmh1qriud3l2k6dtob47c",
+        "event_name": "Attendance 9/18"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 18",
+        "event_id": "5ole9noepmr2jpmka7pgpcpt68",
+        "event_name": "Disconnect Report 1"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 19",
+        "event_id": "75tjg1o267aspqq5p2a24sapcg",
+        "event_name": "Reading Quiz 2"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 20",
+        "event_id": "o7nfd7ob5psmug4sad1g29fcak",
+        "event_name": "HIBT: Angie and Dan Bastian - Boom Chicka Pop"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 20",
+        "event_id": "3lfg7ebfompat76embcjckgci0",
+        "event_name": "NISI - Quiz Chapter 3.2 (pgs. 51-63)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 20",
+        "event_id": "j5d204mvsev6dfuq26k5iq2u6k",
+        "event_name": "Attendance 9/20"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 22",
+        "event_id": "d4unja5ufikqpmhldrr0m01sik",
+        "event_name": "HW 3 - fork/exec"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 25",
+        "event_id": "b3puof8b3v6vukigisap5eg66k",
+        "event_name": "NISI - Quiz Phase 1 (pgs. 65-77)"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 25",
+        "event_id": "6m8s05pbd676pon395juvt6e5g",
+        "event_name": "Disconnect Report 2"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 25",
+        "event_id": "t61nvo9tpl82j25aftkgin1jqo",
+        "event_name": "Attendance 9/25"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 26",
+        "event_id": "36fvfgl84qme6s5l4c588vb9m4",
+        "event_name": "Reading Quiz 3"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 27",
+        "event_id": "k7ra6tirkpn3pudevumll3nako",
+        "event_name": "HIBT: David Neeleman- jetBlue"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 27",
+        "event_id": "9q62pdk9s41gsopmh9aje42fb4",
+        "event_name": "NISI - Quiz Phase 1.2 (pgs. 78-91)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Sep 27",
+        "event_id": "eoh7e6gabn46d0s442kqsr84ac",
+        "event_name": "Attendance 9/27"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Sep 29",
+        "event_id": "erd3kbhl42g7nu91nbi76q4k6g",
+        "event_name": "Shell Lab 1 - Pipelines and Redirection"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 2",
+        "event_id": "tfolkvjfqbhnimfgr1jjbg8fec",
+        "event_name": "HIBT: Dave Dahl - Dave's Killer Bread"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 2",
+        "event_id": "tukkj3h5irciooilofhsp8bjuc",
+        "event_name": "NISI - Quiz Phase 2 (pgs. 92-113)"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 2",
+        "event_id": "djo8jm7v31fb9rvj9era7u3g7c",
+        "event_name": "Disconnect Report 3"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 2",
+        "event_id": "tok43sragblt3kuq8gtb7aphj8",
+        "event_name": "Attendance 10/2"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 3",
+        "event_id": "vvjjqjb9e1aj6h4tfkje39kdg0",
+        "event_name": "Reading Quiz 4"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 4",
+        "event_id": "fp15r3hcv6jj0cap44vl34m0b8",
+        "event_name": "NISI - Quiz Phase 2 (pgs. 114-134)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 4",
+        "event_id": "higd3bq7r58cove6tmgsk057p0",
+        "event_name": "Attendance 10/4"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 4",
+        "event_id": "3s9iffeifmrsbaldqm9c4gh6ns",
+        "event_name": "Entrepreneur Interview #1"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Oct 5",
+        "event_id": "74kh3f7hqdb6a247t1v8mreub4",
+        "event_name": "Analysis I: Prima Facie Duties"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 6",
+        "event_id": "4330pc44iufa7dfja7omits8ng",
+        "event_name": "HW 4 - Signals"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 9",
+        "event_id": "5f2r2al7lhlumi3arehuamgr18",
+        "event_name": "HIBT: John Mackey - Whole Foods"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 9",
+        "event_id": "p3l9ijs2tpqkoffja2k735i9v4",
+        "event_name": "NISI - Quiz Phase 3 (pgs.135-158)"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 9",
+        "event_id": "2bi1u0p36vsh69qtdmto70g8do",
+        "event_name": "Disconnect Report 4"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 9",
+        "event_id": "t1vjfhrqk1gdhh8k3rtcr74bg0",
+        "event_name": "Attendance 10/9"
+    },
+    {
+        "event_calendar_id": "a7b91c07fc2c7e6b7a3ea408057546307b4c12cc4ec0f98aeef58198a85f9edc@group.calendar.google.com",
+        "event_class": "ENT 113 - 003. 10/3; 10/7; 10/10 (TNRB 484)",
+        "event_due_date": "Oct 10",
+        "event_id": "7e4vbvnn6hik5mgqk5nbfkcm4g",
+        "event_name": "Final Team Presentation"
+    },
+    {
+        "event_calendar_id": "a7b91c07fc2c7e6b7a3ea408057546307b4c12cc4ec0f98aeef58198a85f9edc@group.calendar.google.com",
+        "event_class": "ENT 113 - 003. 10/3; 10/7; 10/10 (TNRB 484)",
+        "event_due_date": "Oct 10",
+        "event_id": "07hssmsp5f3jqmmtbs0s723ktc",
+        "event_name": "Participation"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 10",
+        "event_id": "pf4u5t9847f8c1qhpdvt3jd8l8",
+        "event_name": "Reading Quiz 5"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 11",
+        "event_id": "j8vp935r5sfmj8j8mqkcdthuv8",
+        "event_name": "NISI - Quiz Phase 4 (pgs. 159-170)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 11",
+        "event_id": "4lomk5cg4uiap98t0fpjmaa4c8",
+        "event_name": "Attendance 10/11"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Oct 13",
+        "event_id": "5d5bm3fjovh9iltvo2m21pamik",
+        "event_name": "Exam I"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 13",
+        "event_id": "35t2ldkh6ktev16jtrecq7vl6o",
+        "event_name": "Shell Lab 2 - Signals and Job Control"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 16",
+        "event_id": "pqp2nhepodbrhq3u6p1brl2148",
+        "event_name": "HIBT: Jake Carpenter - Burton Snowboards"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 16",
+        "event_id": "3hcq42i89ulrf85qcsskc3huu8",
+        "event_name": "NISI - Quiz Phase 5 (pgs. 171-196)"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 16",
+        "event_id": "27ifb8ufn3l4ccj8avv71tmb14",
+        "event_name": "Disconnect Report 5"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 16",
+        "event_id": "l2r2n56617d473i2aif041uf54",
+        "event_name": "Attendance 10/16"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 17",
+        "event_id": "vv3rtp3dbigpi1puhmbskmrq4s",
+        "event_name": "Reading Quiz 6"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 18",
+        "event_id": "gfirvmqpnej1rm6hbgjqb2v8u0",
+        "event_name": "NISI- Quiz Chapter 9 (197-209)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 18",
+        "event_id": "51aqa80rn2ho2jrtj8abk4fphs",
+        "event_name": "Attendance 10/18"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 20",
+        "event_id": "ki5kiv21v2doqfles4cpgdckbk",
+        "event_name": "Midterm 1"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 23",
+        "event_id": "e1lvk9nuvvpcbl5r8tpcon9fss",
+        "event_name": "HIBT: Tom Rinks- Sun Bum"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 23",
+        "event_id": "4dbaf8r42c7sor27q1ljs4pmlc",
+        "event_name": "Disconnect Report 6"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 23",
+        "event_id": "lrgrqd2tjt75ki18d9cn880q20",
+        "event_name": "Attendance 10/23"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Oct 24",
+        "event_id": "0kr7013gseisup7p6bcfhe4fkc",
+        "event_name": "Analysis II: Neutralizations"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 24",
+        "event_id": "u54td7ugaevrudn7nj0c9e1hrs",
+        "event_name": "Reading Quiz 7"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 25",
+        "event_id": "a3aa1qvqco00mkup7cbk1dk5eo",
+        "event_name": "NISI - Quiz Chapter 10 (pgs. 211-229)"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 25",
+        "event_id": "0bi521k82cvrrqdg16u0c09eqk",
+        "event_name": "Attendance 10/25"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 30",
+        "event_id": "8kvlj81hgmo6pu0j3ck71fouio",
+        "event_name": "HIBT: Stacy Brown - Chicken Salad Chick"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 30",
+        "event_id": "rslavhjl7t7pjp1f3f4m817q74",
+        "event_name": "Disconnect Report 7"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Oct 30",
+        "event_id": "8a0nhrit66d8ab5n5b65q3o8bs",
+        "event_name": "Attendance 10/30"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Oct 31",
+        "event_id": "q9oi3voh10h8q29jlgf5vf9ess",
+        "event_name": "Summary II: Self-Deception"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Oct 31",
+        "event_id": "jl4ko9mr77468rmrpnvvrb38og",
+        "event_name": "Reading Quiz 8"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 1",
+        "event_id": "jlfd78srv89qprnq4gciofqkpk",
+        "event_name": "Entrepreneur Interview #2"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 1",
+        "event_id": "gunojjit9qjj0lm8tpjn9b0mqk",
+        "event_name": "Attendance 11/1"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 3",
+        "event_id": "27oqtiftj3g3tt2jk4h782bdn8",
+        "event_name": "Socket Treasure Hunt"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 6",
+        "event_id": "kjqf9sc0ahto49n9g5v990nrns",
+        "event_name": "HIBT: Jerry Murrell - Five Guys"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 6",
+        "event_id": "6ps1fjuof4i6aq16fmdtv194go",
+        "event_name": "Disconnect Report 8"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 6",
+        "event_id": "5tobf19qo7cf8inv6qcis8i4qs",
+        "event_name": "Attendance 11/6"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 7",
+        "event_id": "jckt7ifi8uk0r6dghpqiuj2jlg",
+        "event_name": "Reading Quiz 9"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 8",
+        "event_id": "q4l36vi0rkmieevhem23fatlis",
+        "event_name": "Attendance 11/8"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 13",
+        "event_id": "6atvcqavtvk1gaeh6tk5ht9fo0",
+        "event_name": "Attendance 11/13"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 14",
+        "event_id": "hdriq1hakjn8h7u8g3dis56fgc",
+        "event_name": "Reading Quiz 10"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 15",
+        "event_id": "iivdldafbpb7et8nl0cc0csafo",
+        "event_name": "HIBT: Lara Merriken - Lara Bars"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 15",
+        "event_id": "gpfak4daoddlgff28u35ot8nto",
+        "event_name": "Attendance 11/15"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 17",
+        "event_id": "krdjkhubfljrb26nep3sddcc1o",
+        "event_name": "HTTP Proxy Lab 1 - Threadpool"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 17",
+        "event_id": "gh0fe6t6jdaehntild6hno32s0",
+        "event_name": "Disconnect Report 10"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 20",
+        "event_id": "dt77fn1kkfd2uhdfojfmsqki8c",
+        "event_name": "Disconnect Report 9"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 20",
+        "event_id": "pmu3t76blaavb7c4bk0hogdtqc",
+        "event_name": "HIBT: Joe Gebbia - Airbnb"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 20",
+        "event_id": "v68crv0bj528620onrs6sjs404",
+        "event_name": "Reading Quiz 11"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 20",
+        "event_id": "40ca2uteu0egvv6q4968eotaf4",
+        "event_name": "Attendance 11/20"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 27",
+        "event_id": "vbjet5t9koe4fomqjsn3sm4c4s",
+        "event_name": "Disconnect Report 11"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 27",
+        "event_id": "qqhhkijs9hbu7q9e70p5hctdc4",
+        "event_name": "Attendance 11/27"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 28",
+        "event_id": "ub18tfhk15vl01djfug9fam1jg",
+        "event_name": "Midterm 2"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Nov 28",
+        "event_id": "a5vhjf56m5lo91rh80lh5aja8s",
+        "event_name": "Reading Quiz 12"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 29",
+        "event_id": "7aiggtiuh35lsasej8stil1bcs",
+        "event_name": "HIBT: Haim Saban - Power Rangers"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 29",
+        "event_id": "mmeg4ku7hjd3j6th5ffn112fmo",
+        "event_name": "Journal"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Nov 29",
+        "event_id": "1791qeq8707cusqnt9htvchl4s",
+        "event_name": "Attendance 11/29"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 4",
+        "event_id": "3ja3fugf3tf3kcrmvicg4ngmr4",
+        "event_name": "Disconnect Report 12"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Dec 4",
+        "event_id": "3626j49hl6n6jjugtuf358991o",
+        "event_name": "Attendance 12/4"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 5",
+        "event_id": "vum4cued9j99gu02l81h51tr6k",
+        "event_name": "Reading Quiz 13"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Dec 6",
+        "event_id": "aaugjg9183s3mnoo0bdp2in1pk",
+        "event_name": "Attendance 12/6"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Dec 6",
+        "event_id": "ggmnukedr6rg96k64jkbka7pss",
+        "event_name": "Final Project - Individual Validation"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Dec 6",
+        "event_id": "hd0g9hqqumlq0jtqmbq2v0eg5c",
+        "event_name": "Entrepreneur Interview #3"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 8",
+        "event_id": "evldjtuu6o4t84ab21t6629k4k",
+        "event_name": "HTTP Proxy Lab 2 - I/O Multiplexing"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 11",
+        "event_id": "03p3mia85bhh9eihbl26mlcmig",
+        "event_name": "Disconnect Report 13"
+    },
+    {
+        "event_calendar_id": "b22655174377c3d87c6994a52e662cfb288b0385a1d920f47bff5fd1a63c1068@group.calendar.google.com",
+        "event_class": "ENT 101 - Intro to Entrepreneurship",
+        "event_due_date": "Dec 13",
+        "event_id": "pe9fm7j50lgv237rl03aqlebvs",
+        "event_name": "Final Exam"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 13",
+        "event_id": "3k8kep66cdgmp0fbpr95teb0go",
+        "event_name": "Attendance"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 13",
+        "event_id": "9mu36djg08o6qa4t685jrjojbk",
+        "event_name": "Reading Quiz 14 (End-of-Class Survey)"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 13",
+        "event_id": "1ksrp3p98gkf7ue5ncqi2eha00",
+        "event_name": "Final Disconnect Challenge Report"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 13",
+        "event_id": "f50f0eu235ucbvi02ao9hg817g",
+        "event_name": "Disconnect Report 14"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Dec 14",
+        "event_id": "k2m9u5ne4vnf1hmfssjqddgm2o",
+        "event_name": "Final Exam"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Dec 14",
+        "event_id": "d4jgg7q6bg7hq28mjfcpkvf0r4",
+        "event_name": "Written Report"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Dec 14",
+        "event_id": "imq02v5t3vge0nrh3lju8v7o6k",
+        "event_name": "Oral Presentation"
+    },
+    {
+        "event_calendar_id": "23a9a27cd4f5a5c77bd510e1e8a7f66d60ffd84db820dae2a7794917cce198a4@group.calendar.google.com",
+        "event_class": "C S 404 - Ethics + Computers in Society",
+        "event_due_date": "Dec 14",
+        "event_id": "vu13169fq2hvd9u63f2frhgruc",
+        "event_name": "Attendance"
+    },
+    {
+        "event_calendar_id": "47c3a3244d93e22bf15a939e647d88c7c0322f4e9543a678adc9b2cda47afe43@group.calendar.google.com",
+        "event_class": "C S 324 - Systems Programming",
+        "event_due_date": "Dec 21",
+        "event_id": "1jc125tk7mjneanavieppqeqp0",
+        "event_name": "Final Exam (TBD)"
+    }
+]

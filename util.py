@@ -41,6 +41,7 @@ def read_json_file(file_name):
     except Exception as error:
          print('An error occurred: %s' % error)
          print('Probably have to delete something on json file')
+    return []
     
 def file_exists(file_name):
     return os.path.exists(file_name)
@@ -58,7 +59,6 @@ def save_event_overwrite_to_file(array, file_name):
 
 # TODO There's a better way
 def save_append_to_file(dict_array, file_name, id):
-    
     old_data = []
     if file_exists(file_name):
         old_data = read_json_file(file_name)
@@ -153,9 +153,8 @@ def read_ls_txt_file(file_name):
         lines = [word for line in LS_HW for word in re.split(r'[\n\t]+', line) if word]
 
     assignments = []
-    # for i in range(0, len(lines), 3):
-    for i in range(0, 7, 3):
-        assignments.append(Event('default', lines[i+1], lines[i+2], None, lines[i])) #todo, might need to assign cal ID again
+    for i in range(0, len(lines), 3):
+        assignments.append(Event(None, lines[i+1], lines[i+2], None, lines[i])) #todo, might need to assign cal ID again
 
     return assignments
 
@@ -164,7 +163,7 @@ def read_other_json_file(file_name):
     lines = read_json_file(file_name)
     assignments = []
     for reading in lines:
-        assignments.append(Event('default', reading['event_class_name'], reading['event_due_date'], None, reading['event_name'])) #todo, might need to assign cal ID again
+        assignments.append(Event(None, reading['event_class_name'], reading['event_due_date'], None, reading['event_name'])) #todo, might need to assign cal ID again
     return assignments
 
 def read_canvas_txt_file(file_name):

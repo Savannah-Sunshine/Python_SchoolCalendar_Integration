@@ -12,6 +12,7 @@ def main():
 
     # get everything from event file
     events_to_delete = read_json_file(OOPS_FILE)
+    
     # clear event file
     # save_overwrite_to_file([], OOPS_FILE)
 

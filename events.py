@@ -12,12 +12,8 @@ def find_matching_event_by_name(look_for_event_name, all_events):
 
 def check_event_needs_adding(event: Event, all_events):
     old_matching_event = find_matching_event_by_name(event.event_name, all_events)
-
     # If new event, add it
     if old_matching_event is None:
-        print(event.event_name + ' will be added')
-        # print(event)
-        # print('\n')
         return True
     
     return False
@@ -26,10 +22,10 @@ def assign_calendar_id(event_class_name, my_calendar_list):
     for calendar in my_calendar_list:
         if calendar.get('offical_class_name') == event_class_name:
             return calendar.get('calendar_id')
-    return None
+    return 'primary'
 
 
-def add_due_dates_events(new_event_file, assignments: [Event], creds):
+def add_due_dates_events(new_event_file, assignments: [Event], creds, my_calendars):
     EVENT_FILE = new_event_file
 
     if(assignments is None):
@@ -41,12 +37,11 @@ def add_due_dates_events(new_event_file, assignments: [Event], creds):
     if file_exists(EVENT_FILE):
         saved_events = read_json_file(EVENT_FILE)
 
-
-
     all_new_events = []
     for hw in assignments:
-        if check_event_needs_adding(hw, saved_events):
-            hw.event_calendar_id = 
+        if saved_events is None or check_event_needs_adding(hw, saved_events):
+            print(hw.event_name + ' will be added')
+            hw.event_calendar_id = assign_calendar_id(hw.event_class,my_calendars)
             hw_event = insert_new_event(creds, hw)
             all_new_events.append(hw_event)
 

@@ -70,11 +70,11 @@ def insert_new_event(creds, event: Event):
         },
     }
 
-    print(event_request)
+    # print(event_request)
     
     service = build('calendar', 'v3', credentials=creds)
     # TODO go to event.event_calendar_id, right now is Primary
-    new_event = service.events().insert(calendarId='primary', body=event_request).execute()
+    new_event = service.events().insert(calendarId=event.event_calendar_id, body=event_request).execute()
 
     # print('Event created: \n%s\n\n' % (new_event.get('htmlLink')))
 

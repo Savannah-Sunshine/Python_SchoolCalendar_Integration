@@ -13,8 +13,9 @@ CANVAS_TRGT_EVENT_FILE = 'files/canvas_events.json'
 OTHER_TRGT_EVENT_FILE = 'files/other_events.json'
 
 LS_SRC_FILE = 'files/LS_sept6.txt'
-CANVAS_SRC_FILE = 'files/canvas_sept.txt'
-OTHER_SRC_FILE = 'files/other_sept8.json'
+CANVAS_SRC_FILE = 'files/c_relc_grades_sept8.json'
+OTHER_SRC_FILE = 'files/o_404_readings_sept8.json'
+# OTHER_SRC_FILE = 'files/o_312_readings_sept8.json'
 
 
 def main():
@@ -45,18 +46,20 @@ def main():
 
     elif sys.argv[1].lower() == 'canvas':
         # Get events to add - Canvas TODO
-        assignments = read_canvas_txt_file(CANVAS_SRC_FILE)
+        assignments = read_other_json_file(CANVAS_SRC_FILE)
         EVENT_FILE = CANVAS_TRGT_EVENT_FILE
 
     elif sys.argv[1].lower() == 'other':
         # Get events to add - Other
         assignments = read_other_json_file(OTHER_SRC_FILE)
         EVENT_FILE = OTHER_TRGT_EVENT_FILE
+    else:
+        print("You typed in " + sys.argv[1])
+        return
 
-    # print(assignments)
-
+    print("DATA PUT INTO " + EVENT_FILE)
     # update & add due dates to events
-    add_due_dates_events(EVENT_FILE, assignments, creds)
+    add_due_dates_events(EVENT_FILE, assignments, creds, my_calendar_list)
 
     # TODO: Get events from Canvas
     # TODO eventually: Asks what calendars are assigned to what classes
