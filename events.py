@@ -48,3 +48,11 @@ def add_due_dates_events(new_event_file, assignments: [Event], creds, my_calenda
     #This file is just in case something bad happens. It will save everything that was run. 
     save_event_overwrite_to_file(all_new_events, 'OOPS.json')
     save_event_append_to_file(all_new_events, EVENT_FILE)
+
+
+
+def check_saved_events(saved_events, new_events):
+    # Sort both lists
+    # Compare
+    
+    pass

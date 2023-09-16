@@ -1,4 +1,4 @@
-from util import convert_to_datetime, file_exists, save_overwrite_to_file, Event
+from util import file_exists, save_overwrite_to_file, Event
 from datetime import datetime, timedelta
 
 from google.auth.transport.requests import Request
@@ -57,7 +57,7 @@ def get_calendars(creds):
 def insert_new_event(creds, event: Event):
     # Call API
 
-    start_datetime = convert_to_datetime(event.event_due_date)
+    start_datetime = event.event_datetime
     event_request = {
         'summary': event.event_name,
         'start': {

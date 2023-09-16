@@ -11,6 +11,10 @@ class Event:
         self.event_due_date = event_due_date
         self.event_id = event_id
         self.event_name = event_name
+        if event_due_date is not None:
+            self.event_datetime = convert_to_datetime(event_due_date)
+        else:
+            self.event_datetime = None
 
     def to_json(self):
         return {
@@ -26,6 +30,23 @@ class EventEncoder(json.JSONEncoder):
         if isinstance(obj, Event):
             return obj.to_json()
         return super().default(obj)
+
+class Class:
+    def __init__(self, class_id, class_name, class_google_calendar_id, class_google_calendar_name):
+        self.class_id = class_id
+        self.class_name = class_name
+        self.class_google_calendar_id = class_google_calendar_id
+        self.class_google_calendar_name = class_google_calendar_name
+
+    def to_json(self):
+        return {
+            "class_id": self.class_id,
+            "class_name": self.class_name,
+            "class_google_calendar_id": self.class_google_calendar_id,
+            "class_google_calendar_name": self.class_google_calendar_name
+        }
+
+
 
 def json_to_Event(values):
     return Event(values['event_calendar_id'], values['event_class'],

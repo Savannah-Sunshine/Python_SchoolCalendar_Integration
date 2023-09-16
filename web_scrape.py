@@ -39,3 +39,9 @@ json_str = json.dumps(dwa, cls=PersonEncoder, indent=2)
 
 print(json_str)
 
+# write a web scrapter that gets data from learning suite
+# write a web scraper that gets data from canvas
+# write a web scraper that gets data from other sources
+
+ 
+

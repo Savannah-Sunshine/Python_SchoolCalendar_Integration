@@ -1,4 +1,5 @@
 import sys
+from busy import print_busiest
 from util import read_json_file, file_exists, save_overwrite_to_file, read_ls_txt_file, read_other_json_file, read_canvas_txt_file
 from GoogleAPI import get_credentials, get_calendars
 from events import add_due_dates_events
@@ -13,7 +14,8 @@ CANVAS_TRGT_EVENT_FILE = 'files/canvas_events.json'
 OTHER_TRGT_EVENT_FILE = 'files/other_events.json'
 
 LS_SRC_FILE = 'files/LS_sept6.txt'
-CANVAS_SRC_FILE = 'files/c_relc_grades_sept8.json'
+CANVAS_SRC_FILE = 'files/c_cs312_grades_sept8.json'
+# CANVAS_SRC_FILE = 'files/c_relc_grades_sept8.json'
 OTHER_SRC_FILE = 'files/o_404_readings_sept8.json'
 # OTHER_SRC_FILE = 'files/o_312_readings_sept8.json'
 
@@ -57,9 +59,13 @@ def main():
         print("You typed in " + sys.argv[1])
         return
 
-    print("DATA PUT INTO " + EVENT_FILE)
     # update & add due dates to events
-    add_due_dates_events(EVENT_FILE, assignments, creds, my_calendar_list)
+    # print("DATA PUT INTO " + EVENT_FILE)
+    # add_due_dates_events(EVENT_FILE, assignments, creds, my_calendar_list)
+
+    # prints busiest times of semester
+    # print_busiest(assignments)
+
 
     # TODO: Get events from Canvas
     # TODO eventually: Asks what calendars are assigned to what classes
