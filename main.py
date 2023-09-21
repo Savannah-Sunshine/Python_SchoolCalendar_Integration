@@ -1,6 +1,6 @@
 import sys
 from busy import print_busiest
-from util import Event, read_json_file, file_exists, save_overwrite_to_file, read_ls_txt_file, read_other_json_file, read_canvas_txt_file
+from util_objects import Event, read_json_file, file_exists, save_overwrite_to_file, read_ls_txt_file, read_other_json_file, read_canvas_txt_file
 from GoogleAPI import get_credentials, get_google_calendars
 from CanvasAPI import get_Canvas_Classes
 from events import add_due_dates_events

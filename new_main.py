@@ -1,7 +1,8 @@
 
 import sys
-from busy import print_busiest
-from util import Event, Class, read_json_Classes, file_exists, save_event_append_to_file,  read_json_Events, read_ls_txt_file, read_other_json_file, read_canvas_txt_file
+# from busy import print_busiest
+from util_objects import Event, Class
+from util_file import read_json_Classes, file_exists, read_other_json_file, read_json_Events
 from GoogleAPI import get_credentials, get_google_calendars, insert_new_canvas_event
 from CanvasAPI import get_Canvas_Classes, get_Canvas_Assignments_as_Events
 from events import add_due_dates_events, compare_saved_events
@@ -11,18 +12,18 @@ from datetime import datetime
 # If modifying scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 CALENDAR_FILE = 'files/new_calendars.json'
+
 OOPS_FILE = 'OOPS.json'
 
-LS_TRGT_EVENT_FILE = 'files/LS_events.json'
-CANVAS_TRGT_EVENT_FILE = 'files/canvas_events.json'
-OTHER_TRGT_EVENT_FILE = 'files/other_events.json'
+LS_TRGT_EVENT_FILE = 'files/saved_events/LS_events.json'
+CANVAS_TRGT_EVENT_FILE = 'files/saved_events/canvas_events.json'
+OTHER_TRGT_EVENT_FILE = 'files/saved_events/other_events.json'
 
-LS_SRC_FILE = 'files/LS_sept6.txt'
-CANVAS_SRC_FILE = 'files/c_cs312_grades_sept8.json'
-# OTHER_SRC_FILE = 'files/o_404_readings_sept8.json'
-
-OTHER_SRC_FILE = 'files/o_324_readings_sept19.json'
-# OTHER_SRC_FILE = 'files/o_312_readings_sept8.json'
+LS_SRC_FILE = 'files/ls/LS_sept6.txt'
+CANVAS_SRC_FILE = 'files/canvas/c_cs312_grades_sept8.json'
+# OTHER_SRC_FILE = 'files/other/o_404_readings_sept8.json'
+OTHER_SRC_FILE = 'files/other/o_324_readings_sept19.json'
+# OTHER_SRC_FILE = 'files/othero_312_readings_sept8.json'
 
 
 
@@ -44,7 +45,7 @@ def main():
 
     # runs through all classes
     for cal_class in my_class_list:
-        if cal_class.class_name is None or cal_class.class_name != "C S 324 - Systems Programming": #TODO TEMPOARY
+        if cal_class.class_name is None: # if not a calendar for classes
             continue
 
 

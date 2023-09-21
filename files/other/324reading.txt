@@ -1,0 +1,89 @@
+Mon, Sep 18
+
+execve(), Concurrency, Synchronization
+
+8.4, 10.8
+
+Wed, Sep 20
+
+Exceptional Control Flow
+
+8.1
+
+Fri, Sep 22
+
+Error Handling
+
+8.3
+
+Mon, Sep 25
+
+Signals and Signal Handling
+
+8.5
+
+Mon, Oct 9
+
+Network Overview - Internet (Hosts, LANs), protocols (TCP/IP), IP addresses
+
+11.1 - 11.3
+
+Fri, Oct 13
+
+Sockets
+
+11.4
+
+Fri, Oct 20
+
+HTTP - requests, headers, GET/POST methods
+
+11.5 - 11.6
+
+Fri, Oct 27
+
+Concurrent Programming with Processes
+
+12.1
+
+Mon, Oct 30
+
+Concurrent Programming with Threads
+
+12.3
+
+Mon, Nov 6
+
+Semaphores - Basics / Producer-Consumer Relationship
+
+12.4 - 12.5
+
+Fri, Nov 10
+
+Synchronization and Parallel Algorithms
+
+12.6
+
+Mon, Nov 13
+
+Synchronization and Parallel Algorithms
+
+1.9.1 - 1.9.2, 12.6
+
+Mon, Nov 20
+
+I/O Multiplexing - performance benefits, constraints / select
+
+12.1 - 12.2
+
+Fri, Dec 1
+
+Virtual Memory - Intro
+
+9.1 - 9.3
+
+Mon, Dec 4
+
+Virtual Memory - Uses and Page Tables
+
+9.4 - 9.6

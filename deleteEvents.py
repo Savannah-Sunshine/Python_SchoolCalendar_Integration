@@ -1,4 +1,4 @@
-from util import read_json_file, save_overwrite_to_file
+from util_file import read_json_file, save_overwrite_to_file
 from GoogleAPI import get_credentials, delete_event
 from main import LS_TRGT_EVENT_FILE, LS_SRC_FILE
 

@@ -1,7 +1,7 @@
 
 import json
 from canvasapi import Canvas
-from util import Class, Event
+from util_objects import Class, Event
 from datetime import datetime
 # curl -H "Authorization: Bearer 7407~NVNI6mAihNpFxdS2YrQr3xNe1sd6oXNvuTtTkx8ZSq88NUl0A0rrYy8rxfUzDRtM" "https://canvas.instructure.com/api/v1/courses"        
 

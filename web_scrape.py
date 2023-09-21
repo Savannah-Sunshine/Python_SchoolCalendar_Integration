@@ -8,7 +8,8 @@
 # # https://learningsuite.byu.edu/.4YTb/student/top/prioritizer
 # # https://learningsuite.byu.edu/.Sne2/student/top/prioritizer
 
-from util import *
+from util_objects import *
+from util_file import *
 import json
 
 class Person:

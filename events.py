@@ -1,6 +1,7 @@
 
 from GoogleAPI import insert_new_canvas_event
-from util import Event, read_json_file, save_event_append_to_file, file_exists, save_event_overwrite_to_file
+from util_objects import Event
+from util_file import save_event_append_to_file, file_exists, save_event_overwrite_to_file, read_json_file
 EVENT_FILE = None
 LS_SRC_FILE = None
 
