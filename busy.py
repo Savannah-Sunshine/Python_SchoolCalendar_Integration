@@ -9,17 +9,17 @@ import sys
 
 def print_busiest(assignments):
     #sort assignments by date
-    assignments.sort(key=lambda x: x.event_datetime)
+    assignments.sort(key=lambda x: x.event_due_date)
 
     # get number of assignments per weekday and week of year
     weekday_num_assignments = [0,0,0,0,0,0,0]
     week_num_assignments = {}
     for assignment in assignments:
         # Gets weekday number (0-6 ~ Mon-Sun)
-        weekday_num_assignments[assignment.event_datetime.weekday()] += 1
+        weekday_num_assignments[assignment.event_due_date.weekday()] += 1
 
         # Gets week number of the year
-        week_num = assignment.event_datetime.isocalendar()[1]
+        week_num = assignment.event_due_date.isocalendar()[1]
         if week_num in week_num_assignments:
             week_num_assignments[week_num] += 1
         else:
@@ -52,11 +52,11 @@ def find_largest_in_list(list):
 
 def print_date_from_weeknum(first_week, assignment_weeknum_num):
     year = 0
-    first_week_num = first_week.event_datetime.isocalendar()[1]
+    first_week_num = first_week.event_due_date.isocalendar()[1]
     if(assignment_weeknum_num[0] < first_week_num):
-        year = first_week.event_datetime.year + 1
+        year = first_week.event_due_date.year + 1
     else:
-        year = first_week.event_datetime.year
+        year = first_week.event_due_date.year
 
     week_num = assignment_weeknum_num[0]
     date = datetime.datetime.strptime(f'{year} {week_num} {1}', "%Y %W %w")

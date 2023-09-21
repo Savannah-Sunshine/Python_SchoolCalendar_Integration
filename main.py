@@ -1,7 +1,8 @@
 import sys
 from busy import print_busiest
-from util import read_json_file, file_exists, save_overwrite_to_file, read_ls_txt_file, read_other_json_file, read_canvas_txt_file
-from GoogleAPI import get_credentials, get_calendars
+from util import Event, read_json_file, file_exists, save_overwrite_to_file, read_ls_txt_file, read_other_json_file, read_canvas_txt_file
+from GoogleAPI import get_credentials, get_google_calendars
+from CanvasAPI import get_Canvas_Classes
 from events import add_due_dates_events
 
 # If modifying scopes, delete the file token.json.
@@ -30,12 +31,15 @@ def main():
         my_calendar_list = read_json_file(CALENDAR_FILE)
     else:
         print("No Calendar File")
-        my_calendar_list = get_calendars(creds)
+        my_calendar_list = get_google_calendars(creds)
         save_overwrite_to_file(my_calendar_list, CALENDAR_FILE)
+        # TODO: Assign ids to classes using canvas api
+        # canvas_classes = get_Canvas_Classes()
+        
 
 
 
-    assignments = []
+    assignments : [Event] = []
 
     if len(sys.argv) != 2:
         print('Add some arguments (all, ls, canvas, other)')
@@ -50,7 +54,7 @@ def main():
         # Get events to add - Canvas TODO
         assignments = read_other_json_file(CANVAS_SRC_FILE)
         EVENT_FILE = CANVAS_TRGT_EVENT_FILE
-
+        
     elif sys.argv[1].lower() == 'other':
         # Get events to add - Other
         assignments = read_other_json_file(OTHER_SRC_FILE)
@@ -59,18 +63,26 @@ def main():
         print("You typed in " + sys.argv[1])
         return
 
-    # update & add due dates to events
+    # add due dates to events
     # print("DATA PUT INTO " + EVENT_FILE)
     # add_due_dates_events(EVENT_FILE, assignments, creds, my_calendar_list)
+
+    # check for updates
+
 
     # prints busiest times of semester
     # print_busiest(assignments)
 
 
-    # TODO: Get events from Canvas
+
     # TODO eventually: Asks what calendars are assigned to what classes
     #                  Ask what time to save due date
 
+
+
+def update_class():
+    # Do per class
+    # Get events to add
 
 
 

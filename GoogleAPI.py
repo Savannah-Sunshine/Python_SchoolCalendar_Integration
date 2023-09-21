@@ -36,7 +36,7 @@ def get_credentials():
 
 
 
-def get_calendars(creds):
+def get_google_calendars(creds):
     my_calendar_list = []
     try:
         service = build('calendar', 'v3', credentials=creds)
@@ -54,10 +54,10 @@ def get_calendars(creds):
         print('An error occurred: %s' % error)
     return my_calendar_list
 
-def insert_new_event(creds, event: Event):
-    # Call API
 
-    start_datetime = event.event_datetime
+def insert_new_canvas_event(creds, event: Event):
+    # Call API
+    start_datetime = event.event_due_date
     event_request = {
         'summary': event.event_name,
         'start': {
@@ -73,13 +73,14 @@ def insert_new_event(creds, event: Event):
     # print(event_request)
     
     service = build('calendar', 'v3', credentials=creds)
-    # TODO go to event.event_calendar_id, right now is Primary
     new_event = service.events().insert(calendarId=event.event_calendar_id, body=event_request).execute()
 
     # print('Event created: \n%s\n\n' % (new_event.get('htmlLink')))
 
     event.event_id = new_event['id']
     return event
+
+
 
 def delete_event(event_id, event_calendar_id, creds):
     service = build('calendar', 'v3', credentials=creds)

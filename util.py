@@ -8,19 +8,20 @@ class Event:
     def __init__(self, event_calendar_id, event_class, event_due_date, event_id, event_name):
         self.event_calendar_id = event_calendar_id
         self.event_class = event_class
-        self.event_due_date = event_due_date
         self.event_id = event_id
         self.event_name = event_name
-        if event_due_date is not None:
-            self.event_datetime = convert_to_datetime(event_due_date)
+        if event_due_date is not None and type(event_due_date) is str:
+            self.event_due_date = convert_to_datetime(event_due_date)
+        elif event_due_date is not None:
+            self.event_due_date = event_due_date
         else:
-            self.event_datetime = None
+            self.event_due_date = None
 
     def to_json(self):
         return {
             "event_calendar_id": self.event_calendar_id,
             "event_class": self.event_class,
-            "event_due_date": self.event_due_date,
+            "event_due_date": self.event_due_date.strftime('%Y-%m-%dT%H:%M:%S-06:00'),
             "event_id": self.event_id,
             "event_name": self.event_name
         }
@@ -32,27 +33,21 @@ class EventEncoder(json.JSONEncoder):
         return super().default(obj)
 
 class Class:
-    def __init__(self, class_id, class_name, class_google_calendar_id, class_google_calendar_name):
+    def __init__(self, class_id, class_name, class_google_calendar_id, class_google_calendar_name, class_source):
         self.class_id = class_id
         self.class_name = class_name
         self.class_google_calendar_id = class_google_calendar_id
         self.class_google_calendar_name = class_google_calendar_name
+        self.class_source = class_source
 
     def to_json(self):
         return {
             "class_id": self.class_id,
             "class_name": self.class_name,
             "class_google_calendar_id": self.class_google_calendar_id,
-            "class_google_calendar_name": self.class_google_calendar_name
+            "class_google_calendar_name": self.class_google_calendar_name,
+            "class_source": self.class_source
         }
-
-
-
-def json_to_Event(values):
-    return Event(values['event_calendar_id'], values['event_class'],
-                 values['event_due_date'], values['event_id'], values['event_name'])
-
-
 
 def read_json_file(file_name):
     # Load the JSON data from the file
@@ -64,6 +59,23 @@ def read_json_file(file_name):
          print('Probably have to delete something on json file')
     return []
     
+def read_json_Classes(file_name):
+    json_obj = read_json_file(file_name)
+    classes = []
+    for values in json_obj:
+        classes.append(Class(values['class_id'], values['class_name'],
+             values['class_google_calendar_id'], values['class_google_calendar_name'],
+             values['class_source']))
+    return classes
+
+def read_json_Events(file_name):
+    json_obj = read_json_file(file_name)
+    events = []
+    for values in json_obj:
+        events.append(Event(values['event_calendar_id'], values['event_class'],
+             values['event_due_date'], values['event_id'], values['event_name']))
+    return events
+
 def file_exists(file_name):
     return os.path.exists(file_name)
 
@@ -180,11 +192,17 @@ def read_ls_txt_file(file_name):
     return assignments
 
 
-def read_other_json_file(file_name): 
+# JSON MUST BE LIKE THIS
+    # {
+    #     "event_class_name": "C S 324 - Systems Programming",
+    #     "event_due_date": "Dec 4",
+    #     "event_name": "9.4 - 9.6"
+    # }
+def read_other_json_file(file_name, cal_id): 
     lines = read_json_file(file_name)
-    assignments = []
+    assignments : [Event] = []
     for reading in lines:
-        assignments.append(Event(None, reading['event_class_name'], reading['event_due_date'], None, reading['event_name'])) #todo, might need to assign cal ID again
+        assignments.append(Event(cal_id, reading['event_class_name'], reading['event_due_date'], None, reading['event_name']))
     return assignments
 
 def read_canvas_txt_file(file_name):
